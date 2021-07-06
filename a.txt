@@ -1,3 +1,4 @@
 
 Entendendo o HEAD
 shhsuhushh
+esta linha foi modificada no ramo master

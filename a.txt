@@ -1,5 +1,11 @@
 
-Entendendo o HEAD
-shhsuhushh
-esta linha foi modificada no ramo master
-esta linha foi modificada no ramo teste
+public class teste
+{
+    public static void main (String args[])
+    {
+        String ch = "hello world";
+        System.out.println(ch);
+        
+
+    }
+}
